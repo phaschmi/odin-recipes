@@ -1,1 +1,2 @@
 # odin-recipes
+This project will demonstrate my newly aquired HTML coding skills such as setting up an html document, creating a boiler plate, and using lists and links. I will demonstrate these skills by creating recipes on a simple webpage.
